@@ -1,2 +1,4 @@
 testRepo
-dfghj
+dfghj\
+some very great text
+git add -A
